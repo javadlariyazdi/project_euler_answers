@@ -1,5 +1,5 @@
-# This code was assisted by ChatGPT AI in some parts
 # By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
+# This code was assisted by ChatGPT AI in some parts
 def even_fibonacci_sum(limit = 4_000_000):   
     fib1,fib2 = 0, 1
     total = 0
